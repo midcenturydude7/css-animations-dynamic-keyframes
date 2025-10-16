@@ -1,0 +1,24 @@
+{
+  "name": "Dynamic Keyframes Exercise",
+  "version": "1.0.0",
+  "description": "A project to explore dynamic keyframes in CSS animations.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "start": "vite",
+    "serve": "python3 -m http.serve 8000",
+    "test": "echo \"ErrorL no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "animations",
+    "keyframes",
+    "frontend"
+  ],
+  "author": "midcenturydude7",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
