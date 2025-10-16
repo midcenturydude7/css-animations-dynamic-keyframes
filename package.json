@@ -1,5 +1,5 @@
 {
-  "name": "Dynamic Keyframes Exercise",
+  "name": "dynamic-keyframes",
   "version": "1.0.0",
   "description": "A project to explore dynamic keyframes in CSS animations.",
   "main": "index.js",
