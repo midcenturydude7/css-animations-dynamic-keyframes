@@ -19,6 +19,7 @@
   ],
   "author": "midcenturydude7",
   "license": "MIT",
-  "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "vite": "^6.4.0"
+  }
 }
