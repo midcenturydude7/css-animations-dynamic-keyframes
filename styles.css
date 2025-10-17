@@ -27,6 +27,8 @@ body {
 button {
   padding: 16px;
   margin-top: 24px;
+  cursor: pointer;
+  
 }
 
 @keyframes oscillate {
