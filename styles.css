@@ -21,9 +21,19 @@ body {
   border-radius: 45%;
   width: 64px;
   height: 64px;
+  animation: oscillate 700ms ease-in-out infinite alternate;
 }
 
 button {
   padding: 16px;
   margin-top: 24px;
+}
+
+@keyframes oscillate {
+  from {
+    transform: translateX(calc(var(--amount) * -1));
+  }
+  to {
+    transform: translateX(var(--amount));
+  }
 }
